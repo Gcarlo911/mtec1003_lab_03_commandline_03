@@ -147,4 +147,4 @@ What commands did you use to do this?
 What commands did you use to do this?  Show the output.
 ----------
 ls
-1.txt 2.txt copy_to_backup.sh. /backup
+1.txt 2.txt copy_to_backup.sh. backup/
